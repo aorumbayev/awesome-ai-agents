@@ -1714,7 +1714,7 @@ AI-powered Kanban TUI for autonomous development workflows
 
 <details>
 
-![image](https://raw.githubusercontent.com/aorumbayev/kagan/main/assets/banner.png)
+![image](https://i.imgur.com/dZRl5V7.png)
 
 ### Category
 Coding, Productivity, Multi-agent
