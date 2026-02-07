@@ -1709,7 +1709,7 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
-## [Kagan](https://github.com/aorumbayev/kagan)
+## [Kagan](https://github.com/kagan-sh/kagan)
 AI-powered Kanban TUI for autonomous development workflows
 
 <details>
@@ -1728,7 +1728,7 @@ Kagan is an AI-powered Kanban TUI for autonomous development workflows.
 - Built with Python 3.12+ and the Textual framework
 
 ### Links
-- [GitHub](https://github.com/aorumbayev/kagan)
+- [GitHub](https://github.com/kagan-sh/kagan)
 
 </details>
 
